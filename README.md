@@ -13,3 +13,6 @@ V 1.0 (within thinkful capstone scope)
 
 V 2.0 (future scope outside thinkful capstone)
 * interactive chat between users, reputation system, may include crypto currency reward system etc. 
+
+V 3.0
+ * organize local giver club events. 
